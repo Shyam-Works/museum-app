@@ -9,7 +9,7 @@
 * Student Name:  Shyam Patel
 * Student Email: spatel695@myseneca.ca 
 * Course/Section: WEB422/ZAA 
-* Vercel URL:  
+* Vercel URL:  https://museum-app-jade.vercel.app/
 * 
 *****************************************************************************/ 
 import { Container, Row, Col, Image } from 'react-bootstrap';
